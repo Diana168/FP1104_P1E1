@@ -1,0 +1,31 @@
+ALGORITMO
+La característica básica que debe tener un algoritmo es que sea correcto, es decir, que produzca el resultado deseado 
+en tiempo finito. Adicionalmente puede interesarnos que sea claro, que esté bien estructurado, que sea fácil 
+de usar, que sea fácil de implementar y que sea eficiente. Entendemos por eficiencia de un algoritmo la cantidad 
+de recursos de cómputo que requiere; es decir, cuál es su tiempo de ejecución y qué cantidad de memoria utiliza.
+A la cantidad de tiempo que requiere la ejecución de un cierto algoritmo se le suele llamar coste en tiempo mientras
+que a la cantidad de memoria que requiere se le suele llamar coste en espacio. Es evidente que conviene buscar algoritmos
+correctos que mantengan tan bajo como sea posible el consumo de recursos que hacen del sistema, es decir, que sean lo más
+eficientes posible. Cabe hacer notar que el concepto de eficiencia de un algoritmo es un concepto relativo, esto quiere
+decir que ante dos algoritmos correctos que resuelven el mismo problema, uno es más eficiente que otro si consume menos
+recursos. Por tanto, podemos observar que el concepto de eficiencia y en consecuencia el concepto de coste nos permitirá
+comparar distintos algoritmos entre ellos
+
+Los Algoritmos Diseñados bajo la Técnica “Divide y Vencerás” 
+El catálogo existente de algoritmos diseñados bajo la técnica “divide y vencerás” es muy amplio, si bien se pueden 
+establecer diversas clasificaciones atendiendo a múltiples parámetros que permiten agruparlos en función de ciertas 
+características de los propios problemas. Se repasa a continuación el procedimiento llevado a cabo y los resultados
+obtenidos, en forma de clasificación de problemas, que son repasados para aportar si cuentan o no con representación
+gráfica en la bibliografía consultada.
+
+Partiendo de la hipótesis de que las representaciones empleadas en los libros de referencia son las más extendidas,
+aceptadas y útiles en el contexto docente, se decidió iniciar una exploración de la bibliografía accesible a través 
+de los recursos que proporciona la biblioteca universitaria seleccionando aquellas obras centradas en el diseño de
+algoritmos y que cuentan con capítulos centrados en la técnica de diseño “divide y vencerás”. 
+Lo que se buscaba, concretamente, era cualquier tipo de representación gráfica empleada para ilustrar, en un sentido
+general o con un ejemplo concreto, algún concepto o algoritmo, ya fuese de manera parcial o total. Representaciones 
+como diagramas, secuencias cronológicas, elementos esquemáticos o representaciones especiales, encajan en la búsqueda 
+realizada. Esta búsqueda se realizó en 13 obras bibliográficas (Di Batista, 1999) (Johnsonbaugh, 2004) (Sahni, 2005) 
+(Cormen, 2005) (Alsuwaiyel, 1999) (Brassad, 1997) (Kleinberg, 2006) (Giusti, 2001) (Brassad, 1996) (Lee, 2007) (Martí, 2004)
+(Gonzalo, 1997) (Allen, 1995), anotando qué problemas tenían alguna representación, qué tipo de representación era, y qué 
+características singulares tenía
